@@ -64,4 +64,4 @@ SET logs the information in the xml file under /root/.set directory:
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
-](https://github.com/hemth/Compromising-windows-using-Metasploit?organization=hemth&organization=hemth)
+
